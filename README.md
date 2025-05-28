@@ -1,6 +1,6 @@
 # Tasks-for-Data-Science-Interns-task-1-
 
-#  Titanic EDA Project
+#  EDA and Visualization of a Real-World Dataset
 
 This repository contains the Exploratory Data Analysis (EDA) of the Titanic dataset to understand survival patterns and data trends.
 
